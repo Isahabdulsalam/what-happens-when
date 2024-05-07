@@ -52,6 +52,7 @@ The keyboard controller then encodes the keycode for transport to the computer.
 This is now almost universally over a Universal Serial Bus (USB) or Bluetooth
 connection, but historically has been over PS/2 or ADB connections.
 
+
 *In the case of the USB keyboard:*
 
 - The USB circuitry of the keyboard is powered by the 5V supply provided over
